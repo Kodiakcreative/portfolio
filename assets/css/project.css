@@ -1,0 +1,152 @@
+
+.content-work h2,
+.content-work h3,
+.content-work h4,
+.content-work p {
+    text-align: justify;
+}
+
+
+.content-work li,
+.content-work p {
+    font-size: 1rem;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.head-work {
+    display: flex;
+    align-items: center;
+    margin-bottom: 4%;
+    gap: 30px;
+}
+
+.head-work img {
+    width: 15vw;
+}
+.title-work {
+    padding-left: 6vw;
+}
+
+.title-work h2 {
+    font-size: 3.4em;
+}
+
+.title-work h3 {
+    text-align: start;
+}
+
+.flex-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.flex-title a {
+    width: 5vw;
+}
+
+.flex-title .first {
+    margin-left: 5vw;
+}
+
+.flex-title .last {
+    margin-right: 5vw;
+}
+
+.flex-title .title {
+    margin: 0.7% 10vw 0;
+    text-align: center;
+
+}
+
+/* h1 {
+    font-size: 6vw;
+}
+
+h3 {
+    font-size: 2.6vw;
+} */
+
+.flex-title a h3,
+.flex-title h1 {
+    vertical-align: middle;
+}
+
+.flex-work {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.flex-work img {
+    height: 30vw;
+    width: fit-content;
+}
+
+.text-work p,
+h4 {
+    text-align: justify;
+}
+
+.text-work p {
+    font-size: 1em;
+}
+
+h4 {
+    margin-top: 8%;
+}
+
+.img-work {
+    width: 40%;
+}
+
+.moitié {
+    display: flex;
+}
+
+.modal-box {
+    padding: 3rem !important;
+}
+
+.content-work , .flex-work div{
+    display: flex;
+    flex-direction: column;
+}
+
+.carnaval {
+    margin: 0 8.3vw;
+}
+
+.carnaval h2 {
+    font-size: 3em;
+}
+
+.carnaval img {
+    width: 30vw;
+}
+
+.center {
+    align-self: center;
+}
+
+.big {
+    width: 50vw !important; 
+}
+
+.little {
+    height: 20vw !important;
+    width: fit-content;
+}
+
+.modal-box .color_works {
+    display: flex;
+    justify-content: center;
+
+}
